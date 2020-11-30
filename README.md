@@ -31,7 +31,7 @@ To begin, we might offer two levels of LexDAO arbitration to the general public,
 For inclusion in agreements, governance docs:
 
 ***Any dispute, controversy, or claim arising out of or relating to this contract,
-or the breach, termination, or invalidity thereof, shall be settled by arbitration in accordance with the [lexDAO Arbitration Rules](www.github.com/LexDAO/Arbitration) in effect on the date of this contract.
+or the breach, termination, or invalidity thereof, shall be settled by arbitration in accordance with the [LexDAO Arbitration Rules](www.github.com/LexDAO/Arbitration) in effect on the date of this contract.
 The appointing authority shall be LexDAO LLC.
 (a) The number of arbitrators shall be three.
 (b) The place of arbitration shall be [the LexDAO Discord Channel](discord.com/lexDAO).
@@ -39,12 +39,14 @@ The appointing authority shall be LexDAO LLC.
 
 ## LexDAO Arbitration Rules
 
-UNCITRAL Arbitration Rules
-(with new article 1, paragraph 4, as revised in 2013) Section I. Introductory rules
+The LexDAO Arbitration Rules are based off the UNCITRAL Arbitration Rules, an internationally accepted standard for commercial aribtration, with adjustments to meet the expediency expected in the crypto space. At all times, LexDAO Arbitri's main objects will be fair resolution, impartiality and avoiding unnecessary delay or expense. 
+
+
+I. Introductory rules
 Scope of application*
 Article 1
-1.	Where parties have agreed that disputes between them in  respect of a defined legal relationship, whether contractual or not, shall be referred to arbitration under the UNCITRAL  Arbitration Rules, then such disputes shall be settled in accordance with these Rules subject to such modification as the  parties may agree. 
-2.	The parties to an arbitration agreement concluded after 15 August 2010 shall be presumed to have referred to the Rules in effect on the date of commencement of the arbitration, unless the parties have agreed to apply a particular version of the Rules. That presumption does not apply where the  arbitration agreement has been concluded by accepting after 15 August 2010 an offer made before that date. 
+1.	Where parties have agreed that disputes between them in  respect of a defined legal relationship, whether contractual or not, shall be referred to arbitration under the LexDAO Arbitration Rules, then such disputes shall be settled in accordance with these Rules subject to such modification as the  parties may agree. 
+2.	The parties to an arbitration agreement concluded after December 1, 2020 shall be presumed to have referred to the Rules in effect on the date of commencement of the arbitration, unless the parties have agreed to apply a particular version of the Rules. That presumption does not apply where the  arbitration agreement has been concluded by accepting after December 1, 2020 an offer made before that date. 
 3.	These Rules shall govern the arbitration except that where any of these Rules is in conflict with a provision of the law  applicable to the arbitration from which the parties cannot  derogate, that  provision shall prevail.
 4.	For investor-State arbitration initiated pursuant to a treaty providing for the protection of investments or investors, these Rules include the UNCITRAL Rules on Transparency in Treatybased Investor-State Arbitration (“Rules on Transparency”), subject to article 1 of the Rules on Transparency.
 Notice and calculation of periods of time
